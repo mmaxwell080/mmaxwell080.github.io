@@ -8,5 +8,10 @@ body {
       font-size: 22px;
     }
 
+   img {
+   	display: block; 
+   	max-width: 100%;
+   }
+
 
 
